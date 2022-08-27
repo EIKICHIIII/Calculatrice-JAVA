@@ -13,6 +13,8 @@ public class FonctionsCalculatrice {
 	};
 
 	
+	
+	
 	/*Indiçage 1 =>Première Limite max  pour le nombre mystère*/
 
 	public static int nombremax () {
